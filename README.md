@@ -20,7 +20,7 @@ The previous Specs of Project_Management_System were:
 * Allows a user to Finalise existing projects and Generate an Invoice with Customer details and amount outstanding. If the customer has already paid the full fee, an invoice should not be generated.
 * Writes the Updated Details about the projects to the Text File when the program ends.
 * Writes all Completed Projects to a text file called CompletedProject.txt.
-##Concepts Demonstrated:
+## Concepts Demonstrated:
 * Java Object-oriented programming (OOP)
 * UML diagram that shows the details of all the classes used for this program.
 * Refactoring to improve the quality of your code.
